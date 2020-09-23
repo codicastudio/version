@@ -1,10 +1,8 @@
 {
     "name": "codciastudio/version",
-    "description": "A noobs worthless garbage, just learning.",
-    "keywords": [
-        "worthless garabage by a noob."
-    ],
-    "homepage": "https://github.com/codicastudio/version",
+    "description": "A random Codica Studio package.",
+
+    "homepage": "https://github.com/codica-studio/version",
     "license": "MIT",
     "authors": [
         {
@@ -16,7 +14,7 @@
     ],
 
     "require": {
-        "php": "^7.4",
+        "php": "^7.4 || ^8.0",
         "laravel/framework": "^8.0",
         "pragmarx/yaml": "^1.0",
         "symfony/process": "^3.3|^4.0|^5.0"
