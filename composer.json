@@ -1,8 +1,8 @@
 {
-    "name": "codciastudio/version",
+    "name": "codcia-studio/version",
     "description": "A random Codica Studio package.",
 
-    "homepage": "https://github.com/codica-studio/version",
+    "homepage": "https://github.com/codicastudio/version",
     "license": "MIT",
     "authors": [
         {
